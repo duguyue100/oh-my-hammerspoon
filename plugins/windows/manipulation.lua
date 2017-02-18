@@ -13,7 +13,7 @@ winmod.config = {
    third_up    = { {"ctrl", "alt"       }, "Up" },
    third_down  = { {"ctrl", "alt"       }, "Down" },
    max_toggle  = { {"ctrl", "alt", "cmd"}, "F" },
-   max         = { {"ctrl", "alt", "cmd"}, "Up" },
+   max         = { {               "cmd"}, "1" },
    screen_left = { {"ctrl", "alt", "cmd"}, "Left" },
    screen_right= { {"ctrl", "alt", "cmd"}, "Right" },
 }
